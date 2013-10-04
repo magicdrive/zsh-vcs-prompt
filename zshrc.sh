@@ -115,7 +115,7 @@ else
         # VCS name
         ZSH_VCS_PROMPT_GIT_FORMATS='(%{%B%F{yellow}%}#s%{%f%b%})'
         # Branch name
-        ZSH_VCS_PROMPT_GIT_FORMATS+='[%{%B%F{red}%}#b%{%f%b%}'
+        #ZSH_VCS_PROMPT_GIT_FORMATS+='[%{%B%F{red}%}#b%{%f%b%}'
         # Ahead and Behind
         ZSH_VCS_PROMPT_GIT_FORMATS+='#c#d|'
         # Staged
